@@ -22,6 +22,7 @@
 - 👨‍💻 Read about my projects on [Notion](https://portfolio-sai-raina.notion.site/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
+      I am open to discussing data science and analytics and exploring new opportunities.
 
 - 📫 Reach me at sairaina@usc.edu
 
@@ -29,13 +30,7 @@
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
 
-Seeking opportunities in a challenging and healthy work environment where I can apply my skills effectively, contribute to meaningful projects, and continue to expand my knowledge.
-
-**Let's connect!** 
-
-I am open to discussing data science and analytics and exploring new opportunities.
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">**Let's connect!**</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saitigerraina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saitigerraina/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sai_tiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_tiger" height="30" width="40" /></a>
