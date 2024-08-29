@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Tiger Raina</h1>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif">
+<img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h3 align="center">Data-driven problem solver with a passion for uncovering insights and driving impactful decisions. I am more than an aspiring data scientist, with 2+ year of hands on experience in Data Analysis,Machine Learning, LLMs and NLP in multiple domains. I have successfully delivered on high impact projects for clients developing statistical & machine learning models.</h3>
 
 - 🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/saitiger/Data-Engineering-Zoomcamp)
