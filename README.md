@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sai Tiger Raina</h1>
+<h1 align="center">Hi👋, I'm Sai Tiger Raina</h1>
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h3 align="center">
 
