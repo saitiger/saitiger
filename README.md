@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
 
-- 📫 How to reach me **sairaina@usc.edu**
+- 📫 Reach me at sairaina@usc.edu
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing](https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing](https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
 
