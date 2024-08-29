@@ -5,8 +5,11 @@
 **Data Analyst/Scientist | Problem Solver | Continuous Learner**
 
 ⚡I transform data and language into impactful solutions.
+
 ⚡Always exploring the world of Data Science! 
+
 ⚡2+ years of hands-on experience across various domains. 
+
 ⚡I specialize in delivering high-impact statistical and machine learning solutions, utilizing both traditional ML techniques and NLP methods. 
   Leveraging large language models (LLMs) to tackle complex business problems, I continuously strive to enhance data-driven decision-making.
 
