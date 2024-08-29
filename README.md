@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sai Tiger Raina</h1>
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
-<h3 align="center">Data-driven problem solver with a passion for uncovering insights and driving impactful decisions. I am more than an aspiring data scientist, with 2+ year of hands on experience in Data Analysis,Machine Learning, LLMs and NLP in multiple domains. I have successfully delivered on high impact projects for clients developing statistical & machine learning models.</h3>
+<h3 align="center">
+
+**Data Analyst/Scientist | Problem Solver | Continuous Learner**
+
+⚡I transform data and language into impactful solutions.
+⚡Always exploring the world of Data Science! 
+⚡2+ years of hands-on experience across various domains. 
+⚡I specialize in delivering high-impact statistical and machine learning solutions, utilizing both traditional ML techniques and NLP methods. 
+  Leveraging large language models (LLMs) to tackle complex business problems, I continuously strive to enhance data-driven decision-making.
+
+</h3>
 
 - 🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/saitiger/Data-Engineering-Zoomcamp)
 
@@ -17,6 +27,12 @@
 - 📄 Resume [https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing](https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
+
+Seeking opportunities in a challenging and healthy work environment where I can apply my skills effectively, contribute to meaningful projects, and continue to expand my knowledge.
+
+**Let's connect!** 
+
+I am open to discussing data science and analytics and exploring new opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
