@@ -1,8 +1,3 @@
-<div id="wrapperHeader">
-    <div id="header">
-             <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGF0YSUyMGFuYWx5c3R8ZW58MHx8MHx8fDA%3D" width="1000" height="200" alt="logo" />
-    </div> 
-</div>
 <h1 align="center">Hi 👋, I'm Sai Tiger Raina</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <h3 align="center">Data-driven problem solver with a passion for uncovering insights and driving impactful decisions. I am more than an aspiring data scientist, with 2+ year of hands on experience in Data Analysis,Machine Learning, LLMs and NLP in multiple domains. I have successfully delivered on high impact projects for clients developing statistical & machine learning models.</h3>
