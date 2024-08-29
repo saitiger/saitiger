@@ -22,7 +22,6 @@
 - 👨‍💻 Read about my projects on [Notion](https://portfolio-sai-raina.notion.site/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
-      I am open to discussing data science and analytics and exploring new opportunities.
 
 - 📫 Reach me at sairaina@usc.edu
 
