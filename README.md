@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sai-raina.notion.site/](https://portfolio-sai-raina.notion.site/)
+- 👨‍💻 Read about my projects at [Notion](https://portfolio-sai-raina.notion.site/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
 
