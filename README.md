@@ -1,6 +1,6 @@
 <div id="wrapperHeader">
     <div id="header">
-             <img src="[https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif](https://images.unsplash.com/photo-1551288049-bebda4e38f71?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGF0YSUyMGFuYWx5c3R8ZW58MHx8MHx8fDA%3D)" width="1000" height="200" alt="logo" />
+             <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGF0YSUyMGFuYWx5c3R8ZW58MHx8MHx8fDA%3D" width="1000" height="200" alt="logo" />
     </div> 
 </div>
 <h1 align="center">Hi 👋, I'm Sai Tiger Raina</h1>
