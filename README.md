@@ -16,7 +16,7 @@
 
 </h3>
 
-- 🌱 I’m currently learning [MLOPS,Data Engineering,System Design](https://github.com/saitiger/Data-Engineering-Zoomcamp)
+- 🌱 I’m currently learning MLOPS,Data Engineering,System Design
 
 - 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
 
