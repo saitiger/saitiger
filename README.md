@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/e208a7585ff89d79afbd355ad9351991/3f44fb481ccdf2ae-00/s1280x1920/5cf6aaf74177d6f3615b0a814e4acaf99e259d77.gifv)](https://saitiger.github.io)
+.,,[![MasterHead](https://64.media.tumblr.com/e208a7585ff89d79afbd355ad9351991/3f44fb481ccdf2ae-00/s1280x1920/5cf6aaf74177d6f3615b0a814e4acaf99e259d77.gifv)](https://saitiger.github.io)
 <h1 align="center">Hi👋, I'm Sai Tiger Raina</h1>
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h3 align="center">
@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
 
-- 👨‍💻 Read about my projects on [Notion](https://portfolio-sai-raina.notion.site/)
+- 👨‍💻 Read about my projects on [Notion]([https://portfolio-sai-raina.notion.site/](https://portfolio-sai-raina.notion.site/Sai-Tiger-Raina-f535ea61f0014e71a9b89998b02d4837?pvs=4))
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
 
