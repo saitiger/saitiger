@@ -11,22 +11,23 @@
 
 ⚡2+ years of hands-on experience across various domains. 
 
-⚡I specialize in delivering high-impact statistical and machine learning solutions, utilizing both traditional ML techniques and NLP methods. 
-  Leveraging large language models (LLMs) to tackle complex business problems, I continuously strive to enhance data-driven decision-making.
+⚡I humanize data through storytelling data-driven solutions and strive to enhance decision-making.
 
+⚡I specialize in delivering high-impact statistical and machine learning solutions, utilizing both traditional ML techniques and NLP methods. 
+  Leveraging large language models (LLMs) to tackle complex business problems. 
 </h3>
 
 - 🌱 I’m currently learning **MLOPS,Data Engineering,System Design**
 
 - 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
 
-- 👨‍💻 Read about my projects on [Notion]([https://portfolio-sai-raina.notion.site/](https://portfolio-sai-raina.notion.site/Sai-Tiger-Raina-f535ea61f0014e71a9b89998b02d4837?pvs=4))
+- 👨‍💻 Read about my projects on [Notion](https://saitiger.notionlinker.com/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
 
 - 📫 Reach me at sairaina@usc.edu
 
-- 📄 [Resume](https://drive.google.com/file/d/1POK24MV_7EotAqpOps5iFiBMFgxnogG8/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1SyXyvSEjzIHaJjVkSOYq2L1NHv2E-yOn/view?usp=drive_link)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
 
