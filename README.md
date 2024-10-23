@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=500&color=BA34F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Sai+Tiger+Raina;Passionate+About+Data-Driven+Insights)](https://git.io/typing-svg)
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <h3 align="center">
-
 **Data Analyst/Scientist | Problem Solver | Continuous Learner**
 
 ⚡I transform data and language into impactful solutions.
