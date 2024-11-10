@@ -27,7 +27,7 @@
 
 - 📫 Reach me at sairaina@usc.edu
 
-- 📄 [Resume](https://drive.google.com/file/d/1SyXyvSEjzIHaJjVkSOYq2L1NHv2E-yOn/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1_E-7vqydAlWF7kHZHLJvbnxsqMu3VRjt/view?usp=sharing)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
 
