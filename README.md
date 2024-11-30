@@ -17,7 +17,7 @@
   Leveraging large language models (LLMs) to tackle complex business problems. 
 </h3>
 
-- 🌱 I’m currently learning **MLOPS,Data Engineering,System Design**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
 
