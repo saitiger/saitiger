@@ -17,10 +17,10 @@
   Leveraging large language models (LLMs) to tackle complex business problems. 
 </h3>
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning about **Data Engineering Best Practices, Pipelines**
 
-- 👯 I’m looking to collaborate on [Deep Learning for Posture Detection in Infants.](https://github.com/saitiger/Tummy-Time)
-
+- 👯 I’m looking to collaborate on [automated analysis of sensor data](https://github.com/saitiger/Tummy-Time)
+  
 - 👨‍💻 Read about my projects on [Notion](https://saitiger.notionlinker.com/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
