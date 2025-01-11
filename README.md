@@ -5,6 +5,8 @@
 
 **Data Analyst/Scientist | Problem Solver | Continuous Learner**
 
+**"An expert is a man who has made all the mistakes which can be made in a narrow field." - Niels Bohr**
+
 ⚡I transform data and language into impactful solutions.
 
 ⚡Always exploring the world of Data Science! 
@@ -30,6 +32,10 @@
 - 📄 [Resume](https://drive.google.com/file/d/1_E-7vqydAlWF7kHZHLJvbnxsqMu3VRjt/view?usp=sharing)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
+
+- 👨‍💻 Read my monthly articles exploring the world of business & tech on [Substack](https://sairaina.substack.com/)
+
+- 🌱 Currently reading about **Game Theory**
 
 <h3 align="left">Let's connect !</h3>
 <p align="left">
