@@ -6,36 +6,19 @@
 **Data Analyst/Scientist | Problem Solver | Continuous Learner**
 
 **"An expert is a man who has made all the mistakes which can be made in a narrow field." - Niels Bohr**
-
-⚡I transform data and language into impactful solutions.
-
-⚡Always exploring the world of Data Science! 
-
-⚡2+ years of hands-on experience across various domains. 
-
-⚡I humanize data through storytelling data-driven solutions and strive to enhance decision-making.
-
-⚡I specialize in delivering high-impact statistical and machine learning solutions, utilizing both traditional ML techniques and NLP methods. 
-  Leveraging large language models (LLMs) to tackle complex business problems. 
 </h3>
 
 - 🌱 I’m currently learning about **Data Engineering Best Practices, Pipelines**
-
-- 👯 I’m looking to collaborate on [automated analysis of sensor data](https://github.com/saitiger/Tummy-Time)
   
-- 👨‍💻 Read about my projects on [Notion](https://saitiger.notionlinker.com/)
-
-- 💬 Ask me about **Data Analysis, Machine Learning, Digital Marketing.**
+- 👨‍💻 Read about my projects [here](https://saitiger.github.io/)
 
 - 📫 Reach me at sairaina@usc.edu
 
-- 📄 [Resume](https://drive.google.com/file/d/1_E-7vqydAlWF7kHZHLJvbnxsqMu3VRjt/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/179p15qxSODI1nIs0qdI5ET14zspNayOG/view?usp=sharing)
 
 - ⚡ Fun fact **You will frequently find me in a rabbit hole exploring something new!**
 
 - 👨‍💻 Read my monthly articles exploring the world of business & tech on [Substack](https://sairaina.substack.com/)
-
-- 🌱 Currently reading about **Game Theory**
 
 <h3 align="left">Let's connect !</h3>
 <p align="left">
